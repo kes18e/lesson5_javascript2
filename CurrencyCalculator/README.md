@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(11/4/2018)
 
 ### Student Name:  
-(First and Last Name)
+(Keanu Snow)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment is to complete a currency calculator using html and javascript languages.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
+https://kes18e.github.io/lesson5_javascript2/.
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Clearing text from an input field.
+2. Utilizing a selection statement to calculate mathematical equations
+3. Assigning values to different variables using javascript.
 
